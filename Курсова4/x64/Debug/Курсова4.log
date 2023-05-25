@@ -1,0 +1,14 @@
+﻿  classes.cpp
+D:\Курсова\Курсова4\classes.cpp(209,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+D:\Курсова\Курсова4\main.cpp(249,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Курсова\Курсова4\main.cpp(310,34): error C2065: 'categoryCount': undeclared identifier
+D:\Курсова\Курсова4\main.cpp(310,9): error C2530: 'entry': references must be initialized
+D:\Курсова\Курсова4\main.cpp(310,9): error C3531: 'entry': a symbol whose type contains 'auto' must have an initializer
+D:\Курсова\Курсова4\main.cpp(310,32): error C2143: syntax error: missing ';' before ':'
+D:\Курсова\Курсова4\main.cpp(310,47): error C2143: syntax error: missing ';' before ')'
+D:\Курсова\Курсова4\main.cpp(313,28): error C2065: 'driverCategoryCount': undeclared identifier
+D:\Курсова\Курсова4\main.cpp(528,71): error C2660: 'Database::getCargoTransportationsFromFile': function does not take 1 arguments
+D:\Курсова\Курсова4\classes.h(124,38): message : see declaration of 'Database::getCargoTransportationsFromFile'
+D:\Курсова\Курсова4\main.cpp(528,71): message : while trying to match the argument list '(const char [10])'
+  Generating Code...

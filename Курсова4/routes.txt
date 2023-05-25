@@ -1,0 +1,25 @@
+1 Route1 Kyiv Lviv 545 1 2 3
+2 Route2 Lviv Odessa 865 4 5
+3 Route3 Kharkiv Dnipro 330 6 7 8
+4 Route4 Odessa Kyiv 480 9 10
+5 Route5 Lviv Kharkiv 630 11 12 13
+6 Route6 Kharkiv Lviv 495 3 8
+7 Route7 Dnipro Kyiv 495 7 10
+8 Route8 Odessa Kharkiv 700 5 11 13
+9 Route9 Kyiv Dnipro 450 1 7
+10 Route10 Lviv Kyiv 525 2 9
+11 Route11 Dnipro Odessa 685 7 5
+12 Route12 Kharkiv Kyiv 540 6 1 8
+13 Route13 Kyiv Lviv 495 1 2 3
+14 Route14 Dnipro Kharkiv 340 7 6 8
+15 Route15 Odessa Lviv 780 5 11 13
+16 Route16 Ivano-Frankivsk Ternopil 85 14 15
+17 Route17 Lviv Sumy 660 2 16
+18 Route18 Kyiv Zaporizhzhia 470 1 17
+19 Route19 Ternopil Rivne 110 15 20
+20 Route20 Odesa Mykolaiv 130 5 21
+21 Route21 Kharkiv Poltava 120 6 22
+22 Route22 Zaporizhzhia Dnipro 85 17 7
+23 Route23 Kyiv Chernivtsi 495 1 23
+24 Route24 Lviv Uzhhorod 260 2 24
+25 Route25 Dnipro Kherson 355 7 25
